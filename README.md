@@ -1,4 +1,8 @@
 # Finance
 
+**Packages**
 
-    pip3 install yahoo-finance
+    pip install pandas-datareader
+    pip install numpy
+    pip install pandas
+
